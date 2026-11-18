@@ -21,7 +21,7 @@ Desenvolvo projetos web que conectam interface, API e banco de dados. Meu projet
 [![Seguidores no GitHub](https://img.shields.io/github/followers/fabioboeingsantos?style=for-the-badge&label=Seguidores&color=2563eb&logo=github)](https://github.com/fabioboeingsantos?tab=followers)
 [![Estrelas do Cesta do Vale](https://img.shields.io/github/stars/fabioboeingsantos/Cesta-Do-Vale?style=for-the-badge&label=Estrelas%20do%20projeto&color=238636&logo=github)](https://github.com/fabioboeingsantos/Cesta-Do-Vale/stargazers)
 
-[Ver atividade e contribuições](https://github.com/fabioboeingsantos#js-contribution-activity)
+[![GitHub: atividade e contribuicoes](https://img.shields.io/badge/GitHub-Atividade%20e%20contribui%C3%A7%C3%B5es-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabioboeingsantos#js-contribution-activity)
 
 ### Redes sociais
 
