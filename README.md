@@ -1,8 +1,16 @@
 # 👋 Fabio Boeing Santos
 
-`Desenvolvimento web · Frontend e backend`
+`Desenvolvimento web com IA · Backend · Fundamentos de frontend`
 
-Desenvolvo projetos web que conectam interface, API e banco de dados. Meu projeto em destaque é o **Cesta do Vale**, um sistema de pedidos de cestas de uma horta comunitária. Ele inclui a **Flora**, uma assistente que ajuda a consultar o catálogo e preparar pedidos para revisão.
+Me chamo **Fabio Boeing Santos**, tenho **37 anos** e desenvolvo projetos web com apoio de inteligência artificial. Meu foco é o **backend**, com uma base de **frontend** que me ajuda a conectar a interface à lógica do sistema. Tenho um **SaaS em funcionamento**, onde coloco em prática o que aprendo sobre desenvolvimento web.
+
+🤖 Tenho ampla experiência prática com **ChatGPT e Codex**, **Google Gemini** e **Claude**. Uso essas ferramentas para planejar soluções, escrever e revisar código, investigar erros e aprender novas tecnologias.
+
+![ChatGPT e Codex](https://img.shields.io/badge/ChatGPT%20%2F%20Codex-24292f?style=flat-square&logo=openai&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2563eb?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-b45336?style=flat-square&logo=claude&logoColor=white)
+
+🖥️ Também tenho amplo conhecimento em **hardware**, especialmente na escolha de componentes, na montagem de PCs e no diagnóstico de problemas.
+
+🚀 Estou sempre buscando aprender mais e colocar esse conhecimento em prática. **Sou apaixonado por tecnologia**, desde montar um computador até ver uma aplicação funcionar de ponta a ponta.
 
 ---
 
