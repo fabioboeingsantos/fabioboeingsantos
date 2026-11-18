@@ -22,3 +22,8 @@ Desenvolvo projetos web que conectam interface, API e banco de dados. Meu projet
 [![Estrelas do Cesta do Vale](https://img.shields.io/github/stars/fabioboeingsantos/Cesta-Do-Vale?style=for-the-badge&label=Estrelas%20do%20projeto&color=238636&logo=github)](https://github.com/fabioboeingsantos/Cesta-Do-Vale/stargazers)
 
 [Ver atividade e contribuições](https://github.com/fabioboeingsantos#js-contribution-activity)
+
+### Redes sociais
+
+[![Instagram](https://img.shields.io/badge/Instagram-fabinho__boeing-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabinho_boeing/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio%20Boeing%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabioboeingsantos/)
